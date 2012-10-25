@@ -13,12 +13,12 @@ Because it's the fairest possible solution.
 
 ## Dependencies ##
 
-[Underscore](http://underscorejs.org/)
+[Underscore](http://underscorejs.org/)  
 [Lo-Dash](http://lodash.com/)
 
 ## FAQ ##
 
-Q: I demand that you rename this project "Lo-Score."
+Q: I demand that you rename this project "Lo-Score."  
 A: Oh, for fuck's sake.
 
 ## Credits ##
