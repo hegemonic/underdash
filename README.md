@@ -1,14 +1,14 @@
-# Underdash #
+# Lo-Score #
 
 Because it's the fairest possible solution.
 
 ## Installation ##
 
-    npm install underdash
+    npm install lo-score
 
 ## Usage ##
 
-    var _ = require('underdash');
+    var _ = require('lo-score');
     console.log(typeof _.lateBind);  // either 'undefined' or 'function', depending
 
 ## Dependencies ##
@@ -19,7 +19,7 @@ Because it's the fairest possible solution.
 ## FAQ ##
 
 Q: I demand that you rename this project "Lo-Score."  
-A: Oh, for fuck's sake.
+A: FINE
 
 ## Credits ##
 
