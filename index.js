@@ -1,2 +1,1 @@
-var _ = Math.random() < 0.5 ? require('underscore') : require('lodash');
-module.exports = _;
+module.exports = require(Math.random() < 0.5 ? 'underscore' : 'lodash');
