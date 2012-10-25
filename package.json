@@ -1,11 +1,11 @@
 {
-  "name": "underdash",
+  "name": "lo-score",
   "version": "0.0.1",
   "description": "Because it's the fairest possible solution.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hegemonic/underdash.git"
+    "url": "git://github.com/deoxxa/lo-score.git"
   },
   "keywords": [
     "underscore",
