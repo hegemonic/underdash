@@ -19,7 +19,7 @@ Because it's the fairest possible solution.
 ## FAQ ##
 
 Q: I demand that you rename this project "Lo-Score."  
-A: Oh, for fuck's sake.
+A: Oh, for Fuch's sake.
 
 ## Credits ##
 
